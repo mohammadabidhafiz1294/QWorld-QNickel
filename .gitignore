@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-./nickel/Solutions
+nickel/Solutions/.
 .vscode
 .venv
 .git
