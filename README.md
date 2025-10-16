@@ -30,3 +30,5 @@ We welcome contributions from the community to enhance QNickel. If you have any 
 ## License
 
 QNickel is licensed under the [MIT License](LICENSE).
+
+![Qnickel Certificate](QNickel15-83.jpg)
